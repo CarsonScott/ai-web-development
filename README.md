@@ -36,3 +36,5 @@
 ## Action
 -	Webpage: movement of sensors across the webpage. Limited number of vision modules constrains the amount of pixels seen at any given time.
 -	Document: movement of sensors across the document. Limited number of textual modules constrains the amount of words processed at any given time. Insertion of tags/elements into the document. Limited textual processing constrains the possible locations to include only the space currently being processed in the document. 
+
+![Receptive Fields](https://github.com/CarsonScott/ai-web-development/blob/master/Receptive%20Fields.jpg)
